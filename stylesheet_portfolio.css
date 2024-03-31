@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(93, 80, 80);
+    border-style:groove;
+    border-color: rgb(76, 123, 99);
+}
+ul{
+    padding-inline-start: 50%;
+    display: flex;
+    list-style: none;
+}
+li{
+    text-decoration:none ;
+    padding-left: 8%;
+    font-size:x-large;
+}
