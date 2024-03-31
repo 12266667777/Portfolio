@@ -1,15 +1,53 @@
-body{
-    background-color: rgb(93, 80, 80);
-    border-style:groove;
-    border-color: rgb(76, 123, 99);
+ody{
+    background-color: rgb(52, 78, 87);
+}
+
+img{
+    border-radius: 50%;
+    display: block;
+    margin-left: auto;
+    margin-right: 80%;
+    margin-top: 5%;
 }
 ul{
-    padding-inline-start: 50%;
     display: flex;
     list-style: none;
+    text-decoration: none;
+    padding-left: 70%;
+    color: rgb(7, 143, 143);
 }
 li{
-    text-decoration:none ;
-    padding-left: 8%;
-    font-size:x-large;
+    padding: 2ch;
+}
+.name{
+    position: absolute;
+    top: 20%;
+    left: 33%;
+    transform: translate(-50%, -50%);
+    font-size: 20pxpx;
+}
+.student{
+    position: absolute;
+    top: 28%;
+    left: 33%;
+    transform: translate(-50%, -50%);
+    font-size: 25pxpx;
+}
+.image2{
+    border-radius: 20%;
+    display: block;
+    margin-left: 65%;
+}
+.resume{
+    position: absolute;
+    top: 33%;
+    left: 30%;
+    transform: translate(-50%, -50%);
+    font-size: 40pxpx;
+    color: rgb(209, 11, 11);
+    text-decoration: none;
+}
+.a{
+    color: antiquewhite;
+    text-decoration: none;
 }
